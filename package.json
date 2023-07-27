@@ -2,7 +2,7 @@
   "name": "reactfolio-x",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Saloni0412/ReactFolioX",
+  "homepage": "https://github.com/Saloni0412/ReactFolio-X",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
