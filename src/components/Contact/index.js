@@ -31,7 +31,7 @@ function Contact() {
 
     if (!validateEmail(email) || !userName) {
       setErrorMessage("Email or Name is invalid");
-      
+
       return;
     }
 
@@ -47,25 +47,12 @@ function Contact() {
 
   return (
     <section id="reach-out" className="contact">
-      <div className="flex-row">
-        <h2 className="section-title secondary-border">Reach Out</h2>
-      </div>
-
-      <div className="contact-info">
+      
+<div className="contact-info">
         <div>
           <h3>Hello {userName}</h3>
-          <p>Contact me!</p>
-          <address>
-            Toronto, ON <br />
-            P: <a href="tel:951.310.5642">437-000-0000</a>
-            <br />
-            E:{" "}
-            <a href="mailto://saloni.patel@gmail.com">
-            saloni.patel@gmail.com
-            </a>
-          </address>
           <p>
-            <strong>I'd love to hear your feedback!</strong>
+           I'd love to hear from you! Whether you have a question, a suggestion, or just want to say hello, doors are always open. Drop me a line, and let's start a conversation!"
           </p>
         </div>
 
