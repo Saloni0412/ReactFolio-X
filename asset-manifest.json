@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Saloni0412/ReactFolio-X/static/css/main.a6233f76.css",
+    "main.js": "/Saloni0412/ReactFolio-X/static/js/main.caacefd5.js",
+    "static/js/787.cc11d75b.chunk.js": "/Saloni0412/ReactFolio-X/static/js/787.cc11d75b.chunk.js",
+    "static/media/resume.pdf": "/Saloni0412/ReactFolio-X/static/media/resume.36a4e77b9ae146810c9d.pdf",
+    "static/media/salo.png": "/Saloni0412/ReactFolio-X/static/media/salo.7be2d6646e0428c19301.png",
+    "static/media/weathers.png": "/Saloni0412/ReactFolio-X/static/media/weathers.f9c73975e499c07c478f.png",
+    "static/media/bookwise.png": "/Saloni0412/ReactFolio-X/static/media/bookwise.7b71770233d60b6c1c98.png",
+    "static/media/employee.png": "/Saloni0412/ReactFolio-X/static/media/employee.3d6f55cf71ec89b8b3bd.png",
+    "static/media/PWA.png": "/Saloni0412/ReactFolio-X/static/media/PWA.905e8defafca0f7f6d39.png",
+    "static/media/workday.png": "/Saloni0412/ReactFolio-X/static/media/workday.d5115d5c2e17c8ddeba1.png",
+    "static/media/password.png": "/Saloni0412/ReactFolio-X/static/media/password.bd12c7e088bae5ecb3a9.png",
+    "index.html": "/Saloni0412/ReactFolio-X/index.html",
+    "main.a6233f76.css.map": "/Saloni0412/ReactFolio-X/static/css/main.a6233f76.css.map",
+    "main.caacefd5.js.map": "/Saloni0412/ReactFolio-X/static/js/main.caacefd5.js.map",
+    "787.cc11d75b.chunk.js.map": "/Saloni0412/ReactFolio-X/static/js/787.cc11d75b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6233f76.css",
+    "static/js/main.caacefd5.js"
+  ]
+}
