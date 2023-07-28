@@ -1,1 +1,2 @@
 # ReactFolio-X
+This was created to portrait my portfolio using react through which i can showcase my skills to my future employer. I created this project is living and offer a changing environment so i can edit it accordingly. This makes it easier for me to get all my projects on one page. Through this project i got to learn and impliment new skills like media query and flexbox and some other advanced CSS property.
