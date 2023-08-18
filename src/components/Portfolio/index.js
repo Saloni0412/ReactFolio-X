@@ -84,20 +84,20 @@ function Portfolio() {
         <div className="job">
           <div className="job-info">
             <div className="job-img">
-              <a href="https://github.com/Saloni0412/password-generator" target="_blank">
+              <a href="https://peaceful-coast-10837-e5ffde853d9b.herokuapp.com/" target="_blank">
                 {" "}
                 <img
                   src={password}
                   className="my-2"
                   style={{ width: 500 }}
-                  alt="Password generator"
+                  alt="ShoppingHub"
                 />
               </a>
             </div>
             <div className="job-text">
-              <h4>Password Generator</h4>
+              <h4>ShoppingHub</h4>
               <p>
-              This is a webpage to randomly generate a password for an employee to access sensitive data. The randomly generated password meets certain criteria so that it provides greater security. This app will run in the browser and will feature dynamically updated HTML and CSS powered by the JavaScript code
+              Welcome to ShoppingHub - all-inclusive online shopping application that provides a seamless and diverse shopping experience. It demonstrates the capabilities of the MERN stack combined with Mongoose, offering a feature-rich and user-friendly online shopping experience that's secure, efficient, and enjoyable for both customers and administrators.
              </p>
             </div>
           </div>
